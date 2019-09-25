@@ -5,7 +5,8 @@ describe "#addition" do
 end
 
 def subtraction(num1, num2)
-describe "subtraction"
+describe "subtraction"do
+  it ""
 end
 
 def division(num1, num2)
