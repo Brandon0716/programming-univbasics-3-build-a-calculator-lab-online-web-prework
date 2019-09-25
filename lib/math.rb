@@ -6,7 +6,8 @@ end
 
 def subtraction(num1, num2)
 describe "subtraction"do
-  it ""
+  it "subtracts two numbers together"do
+    expect(subtraction(5,4)).to eq(1)
 end
 
 def division(num1, num2)
